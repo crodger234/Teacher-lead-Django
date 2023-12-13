@@ -1,2 +1,2 @@
 # teacher-lead-django
-This was me following a teacher and learning from them. 
+I will be uploading my Django projects in the main branch in folders. In the folder I will give me a README.txt file to explain on how they work. 
